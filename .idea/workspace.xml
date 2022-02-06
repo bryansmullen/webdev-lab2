@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88dc8183-5838-4d59-9f08-ed88a7b15ec7" name="Changes" comment="Add start script">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/imageToRecreate.png" afterDir="false" />
+    <list default="true" id="88dc8183-5838-4d59-9f08-ed88a7b15ec7" name="Changes" comment="First Draft">
+      <change afterPath="$PROJECT_DIR$/img/finishedSite.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644161989602</updated>
-      <workItem from="1644161990737" duration="2063000" />
+      <workItem from="1644161990737" duration="2353000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1644162048703</created>
@@ -114,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644162231014</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="First Draft">
+      <created>1644164152977</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644164152977</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +142,8 @@
     <MESSAGE value="Add package.json" />
     <MESSAGE value="Add index.html and style.css and link together" />
     <MESSAGE value="Add start script" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add start script" />
+    <MESSAGE value="First Draft" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Draft" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

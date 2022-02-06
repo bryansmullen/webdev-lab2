@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88dc8183-5838-4d59-9f08-ed88a7b15ec7" name="Changes" comment="Add package.json">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    <list default="true" id="88dc8183-5838-4d59-9f08-ed88a7b15ec7" name="Changes" comment="Add index.html and style.css and link together">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644161989602</updated>
-      <workItem from="1644161990737" duration="200000" />
+      <workItem from="1644161990737" duration="234000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1644162048703</created>
@@ -74,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644162157824</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add index.html and style.css and link together">
+      <created>1644162207677</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644162207677</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +101,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Initialise npm package and create .gitignore" />
     <MESSAGE value="Add package.json" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add package.json" />
+    <MESSAGE value="Add index.html and style.css and link together" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add index.html and style.css and link together" />
   </component>
 </project>

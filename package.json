@@ -1,0 +1,22 @@
+{
+  "name": "webdev-labs2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryansmullen/webdev-lab2.git"
+  },
+  "author": "Bryan Mullen <bryan@bryanmullen.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryansmullen/webdev-lab2/issues"
+  },
+  "homepage": "https://github.com/bryansmullen/webdev-lab2#readme",
+  "dependencies": {
+    "serve": "13.0.2"
+  }
+}
